@@ -1,0 +1,19 @@
+*{
+    outline: 1px solid pink;
+}
+
+.form__singUp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.title{
+    text-align: center;
+}
+
+.input__submit{
+    margin-top: 20px;
+}
